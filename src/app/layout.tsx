@@ -41,10 +41,10 @@ export const metadata: Metadata = {
       "Os senhores Aluado, Rabicho, Almofadinhas e Pontas têm o prazer em apresentar o Mapa do Maroto.",
     images: [
       {
-        url: "/og-image.jpeg",
+        url: "https://cdn.realoficial.com.br/og-image-mapadomaroto.jpg",
         width: 1200,
         height: 630,
-        alt: "Real Oficial - Cortes Virais: Transforme vídeos longos em curtos!",
+        alt: "Mapa do Maroto - Juro Solenemente Não Fazer Nada de Bom",
       },
     ],
   },
@@ -54,7 +54,7 @@ export const metadata: Metadata = {
     title: "Mapa do Maroto | Juro Solenemente Não Fazer Nada de Bom",
     description:
       "Os senhores Aluado, Rabicho, Almofadinhas e Pontas têm o prazer em apresentar o Mapa do Maroto.",
-    images: ["https://mapadomaroto.com.br/og-image.jpeg"],
+    images: ["https://cdn.realoficial.com.br/og-image-mapadomaroto.jpg"],
   },
   robots: {
     index: true,
