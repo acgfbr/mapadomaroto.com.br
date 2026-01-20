@@ -50,10 +50,11 @@ export const metadata: Metadata = {
   },
   twitter: {
     card: "summary_large_image",
+    creator: "@acgfbr",
     title: "Mapa do Maroto | Juro Solenemente Não Fazer Nada de Bom",
     description:
       "Os senhores Aluado, Rabicho, Almofadinhas e Pontas têm o prazer em apresentar o Mapa do Maroto.",
-    images: ["/og-image.jpeg"],
+    images: ["https://mapadomaroto.com.br/og-image.jpeg"],
   },
   robots: {
     index: true,
